@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Lucky Bamboo Plant",
+    "price": 269,
+    "picture": "https://ibb.co/H4fKdrS"
+  },
+  {
+    "id": 2,
+    "name": "Lucky bamboo( Full Setup)",
+    "price": 236,
+    "picture": "https://ibb.co/ckzbn0G"
+  },
+  {
+    "id": 3,
+    "name": "Wall Bamboo plant( ওয়াল প্লান্ট)",
+    "price": 293,
+    "picture": "https://ibb.co/ZJcyN2k"
+  },
+  {
+    "id": 4,
+    "name": "Money plant",
+    "price": 299,
+    "picture": "https://ibb.co/k2GRrY2"
+  },
+  {
+    "id": 5,
+    "name": "Aparajita Flower Plant",
+    "price": 262,
+    "picture": "https://ibb.co/k2GRrY2"
+  },
+  {
+    "id": 6,
+    "name": "Bird Fran",
+    "price": 265,
+    "picture": "https://ibb.co/0DsDQS0"
+  },
+  {
+    "id": 7,
+    "name": "Christmas Tree",
+    "price": 201,
+    "picture": "https://ibb.co/4Mp3wq8"
+  },
+  {
+    "id": 8,
+    "name": "Cotton Plant",
+    "price": 207,
+    "picture": "https://ibb.co/RPNyxY0"
+  },
+  {
+    "id": 9,
+    "name": "Arrowhead Plant",
+    "price": 260,
+    "picture": "https://ibb.co/xYy12C0"
+  }
+]

@@ -1,0 +1,22 @@
+img{
+    width: 7%;
+}
+.menu-bar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 3rem;
+    padding: .5rem;
+    background-color: antiquewhite;
+}
+li{
+    list-style: none;
+    cursor: pointer;
+}
+li:hover{
+    color: green;
+}
+.menu-bar nav{
+    display: flex;
+    gap: 1rem;
+}
